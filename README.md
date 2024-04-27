@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TonyY1999
-- 👀 I’m interested in study!!!
+- 👀 I’m interested in studying!!!
 - 🌱 I’m currently learning Electrical Engineering @UPenn
 - 😄 Pronouns: Trying to be better
 
