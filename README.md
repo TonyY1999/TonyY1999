@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tony Yan
-- 👀 I’m interested in learning
+- 👀 I’m interested in Embedded Software Systems and Control.
 - 🌱 I’m currently learning Electrical Engineering @UPenn
 - 😄 Pronouns: Trying to be better
 
