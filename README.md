@@ -2,24 +2,20 @@
 
 # Hi 👋 I'm Tony Yan
 
-### Embedded Software Engineer | Battery Systems | Firmware | Industrial Automation
+### Embedded Software Engineer | Battery Management System | Automotive Embedded System
 
 <p>
-Building reliable embedded systems for battery management and automotive applications.
+Building software at the intersection of hardware and embedded systems.
 </p>
 
 <p>
-  <a href="mailto:tonyyan909@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+  <a href="https://www.linkedin.com/in/longxiang-yan-8bb049234/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
 
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=700&lines=Embedded+Software+Engineer;Battery+Management+Systems;RTOS+%7C+C%2FC%2B%2B+Developer;Industrial+Automation;Always+Learning"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=700&lines=Embedded+Software+Engineer;Battery+Management+System;Firmware+Development;Automotive+Embedded+System;Always+Learning"/>
 
 </div>
 
@@ -27,16 +23,16 @@ Building reliable embedded systems for battery management and automotive applica
 
 # 👨‍💻 About Me
 
-- 🎓 M.S.E. Electrical Engineering — University of Pennsylvania
+- 🎓 M.S. Electrical Engineering @ University of Pennsylvania
 - 💼 Embedded Software Engineer in New Energy Industry
 - 🔋 Passionate about Hardware & Software Co-Design
-- ⚡ Firmware Development
-- 🚗 Automotive Embedded Systems
-- 🌎 Based in Illinois, USA
+- ⚡ Building reliable firmware for real-time embedded systems
+- 🚗 Interested in Embedded Systems Development
+- 🌱 Trying to be better...
 
 ---
 
-# ⚙️ Tech Stack
+## ⚙️ Tech Stack
 
 ### Languages
 
@@ -48,20 +44,9 @@ Building reliable embedded systems for battery management and automotive applica
 
 ### Embedded
 
-- RTOS (FreeRTOS)
-- STM32
-- Microchip SAMW25
-- UART, SPI, I2C, CAN
-- ADC, PWM
-- MQTT
+ARM Cortex-M • FreeRTOS • STM32 • Microchip SAMW25
 
-### Industrial
-
-- Siemens TIA Portal
-- PLC Programming
-- PROFINET
-- Industrial Ethernet
-- HMI
+UART • SPI • I²C • CAN • GPIO • ADC • PWM • DMA
 
 ### Tools
 
@@ -117,12 +102,10 @@ Concurrent search server written in modern C++.
 
 ```text
 Battery Management Systems
-Embedded Firmware
-RTOS
+Embedded Firmware Development
+Real-Time operating System
 Automotive Software
-Industrial Automation
 Embedded Linux
-Functional Safety
 ```
 
 ---
@@ -131,29 +114,21 @@ Functional Safety
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TonyY1999&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonyY1999&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=TonyY1999&theme=tokyonight"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=TonyY1999&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophy
+<!-- # 📈 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=TonyY1999&theme=tokyonight&column=4"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TonyY1999&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
----
+--- -->
 
 <div align="center">
 
